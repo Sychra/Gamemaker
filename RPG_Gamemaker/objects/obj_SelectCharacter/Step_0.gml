@@ -14,5 +14,9 @@ if(keyboard_check_pressed(ord("Q"))){
 	}
 }
 
+if(keyboard_check(vk_enter)){
+	room_goto_next();
+}
+
 show_debug_message(global.select);
 show_debug_message(maxClasse);
