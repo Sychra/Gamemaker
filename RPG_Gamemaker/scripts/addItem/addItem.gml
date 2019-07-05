@@ -7,3 +7,10 @@
 /// @argument4 Sprite Item_Sprite
 /// @argument5 Script Item_Script
 
+gridToAddTo = argument0;
+newItemName = argument1;
+newItemAmount = argument2;
+newItemDescription = argument3;
+newItemScripte = argument4;
+newItemScript = argument5;
+
