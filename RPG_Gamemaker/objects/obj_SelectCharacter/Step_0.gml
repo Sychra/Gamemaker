@@ -15,7 +15,7 @@ if(keyboard_check_pressed(ord("Q"))){
 }
 
 if(keyboard_check(vk_enter)){
-	room_goto_next();
+	room_goto(1);
 }
 
 show_debug_message(global.select);

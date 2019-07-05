@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "8518207a-1a77-4352-bf37-e14b4b570be5",
+            "Value": {
+                "id": "f7631948-5a09-4afc-b466-3e16cc9e59d8",
+                "resourcePath": "sprites\\spr_warrior\\spr_warrior.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8751129d-76f6-4b8a-997d-ee654ba4144e",
             "Value": {
                 "id": "c5a9d031-5ca9-4ad7-84f1-3af12bc5e40f",
