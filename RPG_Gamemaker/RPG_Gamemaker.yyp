@@ -170,7 +170,7 @@
             "Key": "e1ef16e2-ca2c-412a-ab6c-f02b62d53df4",
             "Value": {
                 "id": "b2b98e8f-168f-47dd-85e1-f745b1ddd418",
-                "resourcePath": "objects\\obj_Priest\\obj_Priest.yy",
+                "resourcePath": "objects\\obj_Player\\obj_Player.yy",
                 "resourceType": "GMObject"
             }
         },

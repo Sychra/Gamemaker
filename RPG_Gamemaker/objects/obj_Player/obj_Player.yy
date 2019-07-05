@@ -2,7 +2,7 @@
     "id": "e1ef16e2-ca2c-412a-ab6c-f02b62d53df4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Priest",
+    "name": "obj_Player",
     "eventList": [
         
     ],
