@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "01beac75-fe30-4aa0-8df1-2f1e6b8e67b3",
-            "Value": {
-                "id": "ca49a27a-f225-4c5f-9328-2da4b2850253",
-                "resourcePath": "objects\\obj_chibrax_maxima\\obj_chibrax_maxima.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0664695c-55f3-42a5-ba65-7606b490b913",
             "Value": {
                 "id": "d1868065-03a7-4eb8-96bc-27131718cf2c",
@@ -52,14 +44,6 @@
                 "id": "8035195e-edf4-4de4-92d6-6c17727baff7",
                 "resourcePath": "views\\22c0c5c0-b0dc-440c-823c-1da4cdbda9b4.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "28bc6c11-511a-4530-bbce-4178866b1127",
-            "Value": {
-                "id": "f7e1256f-83ed-496f-959f-b4d6c82ff90a",
-                "resourcePath": "objects\\obj_test\\obj_test.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -167,14 +151,6 @@
             }
         },
         {
-            "Key": "c85f7baf-91a5-4992-a5db-cd802d577cdf",
-            "Value": {
-                "id": "f39d6ce9-8fd6-4522-9129-8060dde1dc41",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c9388e69-29fd-4edd-92aa-a76ad22725e3",
             "Value": {
                 "id": "1f6fd8da-ee5e-4a9a-9f33-b7f206ef0759",
@@ -191,14 +167,6 @@
             }
         },
         {
-            "Key": "cd678270-2ff6-4b19-9b97-b8fb9d00d6d2",
-            "Value": {
-                "id": "0ddd3d4e-c750-432f-9e1f-ab35766e5411",
-                "resourcePath": "sprites\\spr_test\\spr_test.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "ce25c04a-5d8e-4c2b-a85b-2ce5b7da9ed2",
             "Value": {
                 "id": "593ef0f2-436d-4bec-b70e-d93d39779960",
@@ -212,14 +180,6 @@
                 "id": "7e825e1f-0701-4fee-9aa0-34ea9930a36a",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "fad0be08-b3d4-43a2-9b10-24f69a460dce",
-            "Value": {
-                "id": "e57e93f3-376b-4a1d-854e-0319238948f8",
-                "resourcePath": "objects\\obj_PipeEtJambeDeBois\\obj_PipeEtJambeDeBois.yy",
-                "resourceType": "GMObject"
             }
         },
         {
