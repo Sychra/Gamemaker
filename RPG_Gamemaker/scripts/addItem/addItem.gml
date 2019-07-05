@@ -14,3 +14,6 @@ newItemDescription = argument3;
 newItemScripte = argument4;
 newItemScript = argument5;
 
+// Case 1 - Iteam is already in the inventory
+
+// Case 2 - Iteam is not in the inventory
