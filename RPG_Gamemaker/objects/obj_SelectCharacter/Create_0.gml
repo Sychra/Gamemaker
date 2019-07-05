@@ -1,0 +1,1 @@
+maxClasse = array_height_2d(global.class_data);
