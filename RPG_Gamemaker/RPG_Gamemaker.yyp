@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "fad0be08-b3d4-43a2-9b10-24f69a460dce",
+            "Value": {
+                "id": "e57e93f3-376b-4a1d-854e-0319238948f8",
+                "resourcePath": "objects\\obj_PipeEtJambeDeBois\\obj_PipeEtJambeDeBois.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fc6d7979-2483-4dab-9053-a9fc8c98cb52",
             "Value": {
                 "id": "83482665-7d33-44f7-892f-66eccc572860",
