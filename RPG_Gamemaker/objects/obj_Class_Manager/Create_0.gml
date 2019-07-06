@@ -17,3 +17,4 @@ global.class_data[1, 5]= 3           // Move Range
 
 ///SELECT CHARACTER DATAS///
 global.select = 1;
+global.playerName = "player";
