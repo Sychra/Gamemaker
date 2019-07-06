@@ -16,6 +16,11 @@ class = global.class_data[global.select,0];
 sprite_index = global.class_data[global.select,1];
 hp = global.class_data[global.select,2];
 attack = global.class_data[global.select,3];
+
+lvl = 1;
+xp = 0;
+maxXP = 100;
+
 //move = null;
 //mana = null;
 
