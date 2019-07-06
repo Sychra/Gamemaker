@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0cadbbcf-cc6a-4117-9e54-39e94c7d9ed8",
+            "Value": {
+                "id": "b4caee94-7239-4567-83f3-bedb1bbf81da",
+                "resourcePath": "sprites\\Inventory_Background\\Inventory_Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0dabeae1-b0e6-47a3-bc70-bdabf90c3236",
             "Value": {
                 "id": "7ae5e003-3816-4e32-8ca4-c748b1159dc6",
@@ -100,6 +108,14 @@
                 "id": "60ff1a6b-d2f6-4b8b-bfa3-a87538edd37a",
                 "resourcePath": "views\\50f2e916-1b30-4908-812d-ee0037757e89.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5679897b-bbd4-4c5d-a2c3-77ca8ce2db61",
+            "Value": {
+                "id": "050b89e1-97bb-41c9-b11e-b2105a7fc56a",
+                "resourcePath": "objects\\obj_Inventory_GUI\\obj_Inventory_GUI.yy",
+                "resourceType": "GMObject"
             }
         },
         {
