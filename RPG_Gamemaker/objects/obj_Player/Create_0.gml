@@ -9,3 +9,13 @@ yDest = mouse.none;
 moveSpeed =2;
 
 image_speed = 0;
+
+////Paramètres Personnage////
+name = global.playerName;
+class = global.class_data[global.select,0];
+sprite_index = global.class_data[global.select,1];
+hp = global.class_data[global.select,2];
+attack = global.class_data[global.select,3];
+//move = null;
+//mana = null;
+
