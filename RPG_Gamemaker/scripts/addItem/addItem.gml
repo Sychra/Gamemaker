@@ -23,7 +23,7 @@ for(i = 0 ; i < ds_grid_height(gridToAddTo) ; i++){
 }
 // Case 2 - Iteam is not in the inventory
 if(ds_grid_get(gridToAddTo,0,0) != 0){
-	ds_grid_resize(gridToAddTo,playerInvetoryWidth,ds_grid_height(gridToAddTo)+1);
+	ds_grid_resize(gridToAddTo,playerInventoryWidth,ds_grid_height(gridToAddTo)+1);
 }
 
 newItemSpot = ds_grid_height(gridToAddTo)-1;
