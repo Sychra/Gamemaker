@@ -2,7 +2,7 @@
     "id": "6dd012da-15bc-4ec2-aef5-3d2b0b217df5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemyFight",
+    "name": "obj_fightEnemy",
     "eventList": [
         {
             "id": "aedd7943-f405-434f-a6ca-fa9577da7c3b",

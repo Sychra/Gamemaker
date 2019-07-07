@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "326563b2-b2c8-4442-a586-d30156dc5ebf",
+            "Value": {
+                "id": "85d4e6b9-7c33-412b-9ec6-c043d2309902",
+                "resourcePath": "objects\\obj_fightController\\obj_fightController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54edad3c-a9df-4a64-8a2e-ccd235b783f4",
             "Value": {
                 "id": "0d4c376e-2ff7-4a75-b372-5b54c7b72cf7",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "5bd403ba-7071-4b04-89fc-ab0b4e2eed88",
+            "Value": {
+                "id": "3b84a0db-2caf-4f09-b250-5c00b1a80e7f",
+                "resourcePath": "objects\\obj_fightPlayer\\obj_fightPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "624d8a89-2dc2-46cd-94ea-b8d9fb15f9bf",
             "Value": {
                 "id": "0d2c9aa0-cd83-43cd-a97f-83ca9661c229",
@@ -186,7 +202,7 @@
             "Key": "6dd012da-15bc-4ec2-aef5-3d2b0b217df5",
             "Value": {
                 "id": "474252d6-32d2-496d-aeac-bf81f9f00995",
-                "resourcePath": "objects\\obj_enemyFight\\obj_enemyFight.yy",
+                "resourcePath": "objects\\obj_fightEnemy\\obj_fightEnemy.yy",
                 "resourceType": "GMObject"
             }
         },
