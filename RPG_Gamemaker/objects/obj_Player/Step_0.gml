@@ -16,6 +16,7 @@ if(distance_to_point(xDest,yDest) < moveSpeed + 2){
 
 if(keyboard_check(ord("X"))) xp += 10;
 
+
 if(xp >= maxXP){ 
 	lvl++;
 	xp = xp - maxXP;
