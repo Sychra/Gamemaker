@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "10b59b6f-ce49-469b-bce9-c22f918c3481",
+            "Value": {
+                "id": "242cab1a-d3d6-47b8-9ef6-f807352190f5",
+                "resourcePath": "views\\10b59b6f-ce49-469b-bce9-c22f918c3481.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "11331ba5-cbc9-4f1e-863d-6639227ec947",
             "Value": {
                 "id": "4c56000f-955f-45bb-a6ca-61b561634c45",
@@ -75,6 +83,14 @@
             "Value": {
                 "id": "afa43a52-d46c-4f87-9b07-7b769d00a384",
                 "resourcePath": "views\\1a7ce732-37d0-40e6-bae0-cb0f0d28afed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "218aad43-a8ae-48db-bf92-409a4eb7fa22",
+            "Value": {
+                "id": "cc7a7de2-c141-4c0f-a9c7-a5fd93a48105",
+                "resourcePath": "views\\218aad43-a8ae-48db-bf92-409a4eb7fa22.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -164,6 +180,14 @@
                 "id": "c5a9d031-5ca9-4ad7-84f1-3af12bc5e40f",
                 "resourcePath": "tilesets\\ts_Map\\ts_Map.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "8d89a4d1-815e-400e-877b-5571e67ed2bf",
+            "Value": {
+                "id": "abffbf6a-4580-41b8-930e-62db1b47939c",
+                "resourcePath": "views\\8d89a4d1-815e-400e-877b-5571e67ed2bf.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
