@@ -13,3 +13,13 @@ if(distance_to_point(xDest,yDest) < moveSpeed + 2){
 	yDest = mouse.none;
 	image_speed = 0;
 }
+
+if(keyboard_check(ord("X"))) xp += 10;
+
+if(xp >= maxXP){ 
+	lvl++;
+	xp = xp - maxXP;
+	maxXP *= 2;
+}
+
+show_debug_message("Level = " + string(lvl) + "xp = " + string(xp) + "maxXP = " + string(maxXP));

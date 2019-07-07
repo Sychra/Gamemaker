@@ -18,5 +18,5 @@ if(keyboard_check(vk_enter)){
 	room_goto(1);
 }
 
-show_debug_message(global.select);
-show_debug_message(maxClasse);
+//show_debug_message(global.select);
+//show_debug_message(maxClasse);

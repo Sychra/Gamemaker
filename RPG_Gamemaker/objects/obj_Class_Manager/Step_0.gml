@@ -1,1 +1,1 @@
-show_debug_message(global.select);
+//show_debug_message(global.select);

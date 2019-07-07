@@ -10,6 +10,6 @@ draw_text(cw/2,ch/1.33,string(global.class_data[global.select,0]));
 sprite_index = global.class_data[global.select,1];
 draw_text(cw/2,ch/1.2,"HP : " + string(global.class_data[global.select,2])
 + "  Attack : " + string(global.class_data[global.select,3])
-+ "  Armor : " + string(global.class_data[global.select,4])
-+ "  Move : " + string(global.class_data[global.select,5]));
++ "  Armor : " + string(global.class_data[global.select,4]));
+//+ "  Move : " + string(global.class_data[global.select,5]));
 show_debug_message(string(cw/2) + " " + string(ch/2));
