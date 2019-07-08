@@ -1,4 +1,5 @@
 var nbEnemy = instance_number(obj_fightEnemy);
+var nbPlayer = instance_number(obj_fightPlayer);
 
 if(nbEnemy = 0){
 	//fin de fight, attribution de l'xp, loot

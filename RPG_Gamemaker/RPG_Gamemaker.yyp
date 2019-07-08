@@ -487,11 +487,27 @@
             }
         },
         {
+            "Key": "daf65d8a-34b4-4e9d-9914-22748204c265",
+            "Value": {
+                "id": "4e4b49f1-3c80-401b-ace4-fb34690486ad",
+                "resourcePath": "objects\\obj_AlliesManager\\obj_AlliesManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd46f3ea-e500-4f15-8b1d-f98c942c944c",
             "Value": {
                 "id": "8e2ef59f-b9ac-4866-81d1-b0f860ee28b3",
                 "resourcePath": "views\\dd46f3ea-e500-4f15-8b1d-f98c942c944c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e18d7675-648f-4f85-8368-4125bbf912e5",
+            "Value": {
+                "id": "57a0957a-2b93-401b-9338-78a4c1206b96",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

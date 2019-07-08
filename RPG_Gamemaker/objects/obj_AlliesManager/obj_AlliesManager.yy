@@ -1,18 +1,18 @@
 {
-    "id": "5bd403ba-7071-4b04-89fc-ab0b4e2eed88",
+    "id": "daf65d8a-34b4-4e9d-9914-22748204c265",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_fightPlayer",
+    "name": "obj_AlliesManager",
     "eventList": [
         {
-            "id": "cab566de-3bf0-4950-813c-97ba3454a5ed",
+            "id": "2146267a-8162-466e-a381-14180d294bca",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "5bd403ba-7071-4b04-89fc-ab0b4e2eed88"
+            "m_owner": "daf65d8a-34b4-4e9d-9914-22748204c265"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,22 +31,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "09c40fa3-2414-4f31-8569-8c6c09853c88",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "index",
-            "varType": 1
-        }
-    ],
+    "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
