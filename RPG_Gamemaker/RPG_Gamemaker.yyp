@@ -255,11 +255,27 @@
             }
         },
         {
+            "Key": "9526be76-6a9b-40e6-b1a8-97438fc5b658",
+            "Value": {
+                "id": "72c9b88d-52c1-4120-a0ed-d550507bf951",
+                "resourcePath": "objects\\obj_Spells_GUI\\obj_Spells_GUI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9dea4e7a-8c6b-4cda-9985-a335be305c00",
             "Value": {
                 "id": "4c9697ca-5847-4e4d-bab6-35423800e847",
                 "resourcePath": "sprites\\spr_enemyFight2\\spr_enemyFight2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a034c28f-524a-4401-93c7-2d0644906312",
+            "Value": {
+                "id": "bd79f57c-487b-4fa8-b87f-5a6f9c9ef0d1",
+                "resourcePath": "objects\\obj_SpellsManager\\obj_SpellsManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -284,6 +300,14 @@
                 "id": "dcf86c70-adb0-41ea-bdaf-31332031052c",
                 "resourcePath": "sprites\\spr_enemyMap2\\spr_enemyMap2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a745eb8d-0890-443b-8b39-7a3742b08948",
+            "Value": {
+                "id": "fdc22566-eb23-4a9a-89d9-c387ac051cca",
+                "resourcePath": "scripts\\createSpell\\createSpell.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -343,6 +367,14 @@
             }
         },
         {
+            "Key": "bc980eb0-9384-4cbf-813a-a037282bdc01",
+            "Value": {
+                "id": "0c1d42c8-09ba-42be-86e1-ff68403b4540",
+                "resourcePath": "views\\bc980eb0-9384-4cbf-813a-a037282bdc01.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "bd90dc05-9ef7-4abf-a508-2318bcd62cbe",
             "Value": {
                 "id": "6de07239-2679-483e-a85a-f5ec0a6bcc4b",
@@ -399,6 +431,14 @@
             }
         },
         {
+            "Key": "dd46f3ea-e500-4f15-8b1d-f98c942c944c",
+            "Value": {
+                "id": "8e2ef59f-b9ac-4866-81d1-b0f860ee28b3",
+                "resourcePath": "views\\dd46f3ea-e500-4f15-8b1d-f98c942c944c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e1ef16e2-ca2c-412a-ab6c-f02b62d53df4",
             "Value": {
                 "id": "b2b98e8f-168f-47dd-85e1-f745b1ddd418",
@@ -415,16 +455,33 @@
             }
         },
         {
+            "Key": "f7282c07-61a4-4784-b099-f15b10f4f314",
+            "Value": {
+                "id": "78c1971c-0176-4010-a21b-e595eaf4a3b5",
+                "resourcePath": "objects\\obj_Spell\\obj_Spell.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f7360517-7c10-43c5-99aa-cb2bb0d786f6",
             "Value": {
                 "id": "cef72f1e-8850-44eb-a515-1e96558b73a2",
                 "resourcePath": "sprites\\spr_priest\\spr_priest.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fded2333-6146-4240-a65f-81fec0cee795",
+            "Value": {
+                "id": "421cb21c-f7d6-4833-a1dc-2fb97ad88b18",
+                "resourcePath": "sprites\\spr_NavetBall\\spr_NavetBall.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
-        "b29976f8-45ea-494f-add5-05468f5f34e5"
+        "b29976f8-45ea-494f-add5-05468f5f34e5",
+        "a745eb8d-0890-443b-8b39-7a3742b08948"
     ],
     "tutorial": ""
 }

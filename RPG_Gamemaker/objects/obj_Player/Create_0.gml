@@ -24,3 +24,6 @@ maxXP = 100;
 //move = null;
 //mana = null;
 
+// si je suis pretre et lvl 2
+// createSpell("boule de feu", "feu", 10, "une belle boule de feu", spr_bouledefeu, spell_bouledefeu);
+
