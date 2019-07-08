@@ -7,7 +7,7 @@ if(nbEnemy = 0){
 }else{
 	if(playerTurn){
 		if (phase == 1){
-			if(instance_exists(fightEnemy1) && !instance_exists(encadre1)){
+			if(instance_exists(fightEnemy1)){
 				show_debug_message("encadre1");
 				instance_activate_object(encadre1);
 			}
