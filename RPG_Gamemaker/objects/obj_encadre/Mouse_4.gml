@@ -1,0 +1,1 @@
+//asset_get_index("fightEnemy" + string(enemy)).enemyHp -= ;

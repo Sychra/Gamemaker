@@ -7,6 +7,7 @@ if(global.allies[index] != undefined){
 	alliesAttack =  global.class_data[global.allies[index],4];
 	
 	alliesMaxHp = alliesHp;
+	image_speed = 0;
 	//enemyDef =  global.class_data[index,4];
 }else{
 	instance_destroy();

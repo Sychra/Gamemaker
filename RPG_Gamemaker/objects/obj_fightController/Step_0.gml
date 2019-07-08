@@ -6,7 +6,14 @@ if(nbEnemy = 0){
 	room_goto(1);
 }else{
 	if(playerTurn){
-		obj_interfaceBackground.visible = true;
-		obj_ATK.visible = true;
+		if (phase == 1){
+			if(instance_exists(fightEnemy1) && !instance_exists(encadre1)){
+				show_debug_message("encadre1");
+				instance_activate_object(encadre1);
+			}
+			if(instance_exists(fightEnemy2))instance_activate_object(encadre2);
+			if(instance_exists(fightEnemy3))instance_activate_object(encadre3);
+		}
+		//obj_ATK.visible = true;
 	}
 }
